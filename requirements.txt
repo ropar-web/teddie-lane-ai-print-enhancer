@@ -1,0 +1,11 @@
+streamlit>=1.40
+Pillow>=10.4
+PyMuPDF>=1.24
+numpy>=1.26
+opencv-python-headless>=4.10
+torch>=2.3
+torchvision>=0.18
+basicsr>=1.4.2
+realesrgan>=0.3.0
+facexlib>=0.3.0
+gfpgan>=1.3.8
